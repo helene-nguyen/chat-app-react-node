@@ -9,6 +9,11 @@ If you want to test it the chat app :
 ```
 git clone --ssh link
 ```
+Go to the server folder : 
+
+```
+cd app
+```
 
 And just 
 
